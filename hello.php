@@ -49,6 +49,8 @@ $apple-> phoneModel('iphone 14 Pro');
 $samsung= new Phone;
 $samsung-> phoneModel('s22 Ultra');
 
+$lG= new Phone;
+$lG-> phoneModel('Upcomming');
 
 
 
